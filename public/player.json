@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batter",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 2500000,
+    "image": "https://i.ibb.co.com/Mksd9Czc/th.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batter",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 2200000,
+    "image": "https://i.ibb.co.com/JFC13CsH/licensed-image.webp"
+  },
+  {
+    "id": 3,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batter",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 2100000,
+    "image": "https://i.ibb.co.com/hFm06Phy/download.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 2000000,
+    "image": "https://i.ibb.co.com/XMHPsMT/OIP.webp"
+  },
+  {
+    "id": 5,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batter",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 2300000,
+    "image": "https://i.ibb.co.com/wZnmWxzH/licensed-image-1.webp"
+  },
+  {
+    "id": 6,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1800000,
+    "image": "https://i.ibb.co.com/GfWFH1sq/download-1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 2400000,
+    "image": "https://i.ibb.co.com/3m2Kt37B/Ben-Stokes-England-cricket-team-celebrates-Test-match-win-August-2019.webp"
+  },
+  {
+    "id": 8,
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batter",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 2000000,
+    "image": "https://i.ibb.co.com/jZjj09RB/images.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batter",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 2200000,
+    "image": "https://i.ibb.co.com/27sf4cjF/download-3.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 1700000,
+    "image": "https://i.ibb.co.com/5gKwh35Q/download-4.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "price": 1900000,
+    "image": "https://i.ibb.co.com/jkbkhHgw/download-5.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "price": 2100000,
+    "image": "https://i.ibb.co.com/d4jpvVYX/rashid-2-09-01-2025.jpg"
+  }
+]
